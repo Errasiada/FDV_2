@@ -25,7 +25,7 @@ Esta práctica recoge el proceso de instalación de Perforce y una primera subid
 
 ![6](https://user-images.githubusercontent.com/114673717/194346558-870acecc-d2f7-4f9e-a03d-4efebd725498.png)
 
-7. Hacemos click en Refresh, seleccionamos la carpeta padre y click derecho elegimos "Reconcile Offline Work"
+7. Hacemos click en Refresh, seleccionamos la carpeta padre desde nuestro *Workspace* y con click derecho elegimos "Reconcile Offline Work"
 8. Añadimos los cambios correspondientes en nuestra carpeta y una vez listo entramos en la pestaña 🔺 Pending y seleccionamos ⬅️ SUBMIT (También podemos usar Ctrl+S)
 9. Para una segunda práctica, modificamos el fichero presentacion.txt con nuestro nombre y apellido y una breve frase introductoria.
 10. Añadimos al depot un fichero .txt con nuestro nombre
