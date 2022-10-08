@@ -27,4 +27,13 @@ Esta práctica recoge el proceso de instalación de Perforce y una primera subid
 
 7. Hacemos click en Refresh, seleccionamos la carpeta padre y click derecho elegimos "Reconcile Offline Work"
 8. Añadimos los cambios correspondientes en nuestra carpeta y una vez listo entramos en la pestaña 🔺 Pending y seleccionamos ⬅️ SUBMIT (También podemos usar Ctrl+S)
-9. ¡Listo!
+9. Para una segunda práctica, modificamos el fichero presentacion.txt con nuestro nombre y apellido y una breve frase introductoria.
+10. Añadimos al depot un fichero .txt con nuestro nombre
+
+![image](https://user-images.githubusercontent.com/114673717/194699510-4e63b7ef-c3fe-46b9-a78c-a8a194f2959f.png)
+
+11. Finalmente subiremos a nuestra carpeta del depot un archivo de Unity básico para finalizar la tarea.
+
+![image](https://user-images.githubusercontent.com/114673717/194699538-e8b98856-67ac-4e2c-a0a1-e1bff210f92a.png)
+
+12. ¡Listo!
